@@ -13,7 +13,7 @@ place holder for Text
 description goes here 
 
 
-end for now.
+
 
 Project1 :
 I made a simple calculator in python ,[here](https://github.com/Jpnsamurai/project-one)
@@ -27,5 +27,7 @@ place holder for Text
 description goes here 
 
 
+photo as place holder :
+[](https://github.com/Jpnsamurai/Portfolio/blob/main/images/sample%20photo-1.jfif)
 end for now.
 
