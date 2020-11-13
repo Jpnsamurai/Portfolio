@@ -29,6 +29,7 @@ description goes here
 
 photo as place holder :
 
-![](/images/sample photo-1.jfif)
+![](images/sample photo-1.jfif)
+
 end for now.
 
