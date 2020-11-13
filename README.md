@@ -1,14 +1,14 @@
-##Portfolio
+Portfolio
 a simple portfolio
 
-#Project1 :
+Project1 :
 I made a simple calculator in python ,[here](https://github.com/Jpnsamurai/project-one)
 
-place holder for Tex
+place holder for Text
 
-#Project2 : 
+[Project2 some other thing here](https://github.com/Jpnsamurai/Programing-) : 
 
-some other thing here
+
 
 description goes here 
 
