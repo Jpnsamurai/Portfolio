@@ -28,6 +28,7 @@ description goes here
 
 
 photo as place holder :
-[](https://github.com/Jpnsamurai/Portfolio/blob/main/images/sample%20photo-1.jfif)
+[](/images/sample%20photo-1.jfif)
+
 end for now.
 
