@@ -2,7 +2,7 @@
 a simple portfolio
 
 #Project1 :
-I made a simple calculator in python ,
+I made a simple calculator in python ,[here](https://github.com/Jpnsamurai/project-one)
 
 place holder for Tex
 
