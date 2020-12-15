@@ -5,6 +5,7 @@ Project1 :
 I made a simple calculator in python ,[here](https://github.com/Jpnsamurai/project-one)
 
 place holder for Text
+click [here](http://www.google.com) to see my site 
 
 [Project2 some other thing here](https://github.com/Jpnsamurai/Programing-) : 
 
